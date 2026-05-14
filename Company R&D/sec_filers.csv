@@ -5,25 +5,22 @@ Intel Corporation,Parent,6987,3448,Intel patent holding subsidiary,intel coporat
 "Micron Technology, Inc.",Parent,4906,3007,,micron technolgy inc; micron technology inc; micron technoloogy inc; microntechnology inc,723125,10-K/10-Q,hardcoded
 Alphabet Inc.,Subsidiary,2482,899,Primary operating subsidiary,deepmind technologies limited; google llc; waymo llc; x development llc,1652044,10-K/10-Q,hardcoded
 Texas Instruments Incorporated,Parent,2086,402,,texas instruments incorporated,97476,10-K/10-Q,hardcoded
-"Applied Materials, Inc.",Parent,1790,1063,,applied material inc; applied material israel ltd; applied materials inc; applied materials israel ltd; applied materias inc; applied materlals inc; applied materuals inc,3153,10-K/10-Q,hardcoded
+"Applied Materials, Inc.",Parent,1790,1063,,applied material inc; applied material israel ltd; applied materials inc; applied materials israel ltd; applied materias inc; applied materlals inc; applied materuals inc,6951,10-K/10-Q,hardcoded
 Microsoft Corporation,Subsidiary,1697,579,Patent licensing arm,microsoft technology licemsing llc; microsoft technology licenseing llc; microsoft technology licensing llc,789019,10-K/10-Q,hardcoded
 Dell Technologies Inc.,Subsidiary,1665,669,Primary product entity,dell products lp; emc ip holding company llc,1571996,10-K/10-Q,hardcoded
 Qualcomm Incorporated,Parent,1510,452,Wholly-owned R&D subsidiary,qualcomm incorporated; qualcomm technologies inc,804328,10-K/10-Q,hardcoded
-GlobalFoundries Inc.,Parent,1357,2198,Singapore entity,advanced micro foundry pte ltd; globalfoundries dresden module one limited liability company co kg; globalfoundries dresden module one limited liabillity company co kg; globalfoundries inc; globalfoundries singapore pte ltd; globalfoundries us inc; globalfoundries usinc,1709626,10-K/10-Q,hardcoded
+GlobalFoundries Inc.,Parent,1357,2198,Singapore entity,advanced micro foundry pte ltd; globalfoundries dresden module one limited liability company co kg; globalfoundries dresden module one limited liabillity company co kg; globalfoundries inc; globalfoundries singapore pte ltd; globalfoundries us inc; globalfoundries usinc,1709048,10-K/10-Q,hardcoded
 "Advanced Micro Devices, Inc.",Parent,1323,666,Acquired by AMD Feb 2022,advanced micro devices inc; advanced micro devices shanghai co ltd; ati technologies ilc; ati technologies ulc; xilinx inc,2488,10-K/10-Q,hardcoded
-STMicroelectronics N.V.,Parent,1240,190,Italy entity,stmicroelectronics crolles 2 sas; stmicroelectronics grenoble 2 sas; stmicroelectronics inc; stmicroelectronics international nv; stmicroelectronics pte ltd; stmicroelectronics rousset sas; stmicroelectronics srl; stmicroelectronics tours sas,310764,20-F,hardcoded
-United Microelectronics Corporation,Parent,1233,767,,united microelectronics corp,1094689,20-F,hardcoded
+STMicroelectronics N.V.,Parent,1240,190,Italy entity,stmicroelectronics crolles 2 sas; stmicroelectronics grenoble 2 sas; stmicroelectronics inc; stmicroelectronics international nv; stmicroelectronics pte ltd; stmicroelectronics rousset sas; stmicroelectronics srl; stmicroelectronics tours sas,932787,10-K/10-Q,hardcoded
 Nvidia Corporation,Parent,1056,893,Acquired by Nvidia Apr 2020,mellanox technologies ltd; nvdia corporation; nvida corporation; nvidia corp; nvidia corporation,1045810,10-K/10-Q,hardcoded
 Apple Inc.,Parent,846,544,,apple inc,320193,10-K/10-Q,hardcoded
-"ASE Technology Holding Co., Ltd.",Acquired,810,189,Primary operating entity,advanced semiconductor engineering inc; advanced semiconductor engineering korea inc; siliconware precision industries co ltd,1492812,20-F,hardcoded
 SanDisk Corporation,Subsidiary,766,3684,WD subsidiary; spun off as SanDisk Corp Feb 2024,sandisk technologies inc; sandisk technologies llc,2023554,10-K/10-Q,edgar-partial
-onsemi (ON Semiconductor),Subsidiary,721,160,Primary operating entity,semiconductor components industries llc,861284,10-K/10-Q,hardcoded
+onsemi (ON Semiconductor),Subsidiary,721,160,Primary operating entity,semiconductor components industries llc,1097864,10-K/10-Q,hardcoded
 "Amazon.com, Inc.",Subsidiary,689,1093,Patent holding entity,amanzon technologies inc; amazon technologies inc,1018724,10-K/10-Q,hardcoded
 NXP Semiconductors N.V.,Subsidiary,657,225,US entity,nxp bv; nxp usa inc,1413447,10-K/10-Q,hardcoded
 Oracle Corporation,Subsidiary,654,320,Primary operating entity,oracle international corporation,1341439,10-K/10-Q,hardcoded
-Sony Group Corporation,Parent,650,158,Image sensor division,sony corporation; sony group corporation; sony interactive entertainment inc; sony semiconductor solutions corporation,313838,20-F,hardcoded
 Adeia Inc.,Parent,599,3252,Legacy entity; now Adeia,adeia semiconductor bondin technologies inc; adeia semiconductor bonding technologies inc; adeia semiconductor inc; adeia semiconductor solutions llc; adeia semiconductor technologies llc; adela semiconductor solutions llc; invensas bonding technologies inc; invensas corporation; tessera inc; tessera llc; xcelsis corporation,1840292,10-K/10-Q,hardcoded
-Arm Holdings plc,Parent,580,176,Listed on Nasdaq Sep 2023,arm limited; arm ltd,1748727,20-F,hardcoded
+Arm Holdings plc,Parent,580,176,Listed on Nasdaq Sep 2023,arm limited; arm ltd,1973239,20-F,hardcoded
 Adobe Inc.,Parent,565,445,,adobe inc; adobe systems incorporated,796343,10-K/10-Q,hardcoded
 Hewlett Packard Enterprise Company,Subsidiary,531,339,HPE R&D entity,hewlett packard enterprise development lp,1645590,10-K/10-Q,edgar-partial
 Kokusai Electric Corporation,Parent,465,407,Sold by Hitachi to KKR 2018; re-IPO Oct 2023,hitachi kokusai electric inc; kokusai electric corporation,2033019,10-K/10-Q,edgar-partial
@@ -35,14 +32,12 @@ Lam Research Corporation,Parent,358,395,,lam research corporation,707549,10-K/10
 "Daikin Industries, Ltd.",Parent,331,14,,daikin applied americas inc; daikin applied europe spa; daikin comfort technologies manufacturing lp; daikin europe nv; daikin industries ltd,1446519,10-K/10-Q,edgar-exact
 Carrier Global Corporation,Subsidiary,328,10,Spun off from UTC Apr 2020,carrier corporation,1783398,10-K/10-Q,hardcoded
 "Wolfspeed, Inc.",Parent,323,171,Rebranded to Wolfspeed Oct 2021,cree fayetteville inc; cree inc; woflspeed inc; wolfspeed inc,895419,10-K/10-Q,hardcoded
-Canon Inc.,Parent,313,25,,canon kabushiki kaisha,26986,20-F,hardcoded
 "Meta Platforms, Inc.",Parent,293,316,Reality Labs / hardware,facebook inc; facebook technologies llc; meta platform technologies llc; meta platforms inc; meta platforms technologies llc; meta platforms technologiesllc,1326801,10-K/10-Q,hardcoded
-SAP SE,Parent,277,63,,sap se,935576,20-F,hardcoded
 "Amkor Technology, Inc.",Subsidiary,261,35,Singapore holding entity,amkor technology singapore holding pte ltd,1047127,10-K/10-Q,edgar-exact
 Bank of America Corporation,Parent,252,82,,bank of america corporation,70858,10-K/10-Q,hardcoded
 VMware LLC,Predecessor,242,157,Acquired by Broadcom Nov 2023; converted to LLC,vmware inc; vmware llc,1124610,10-K/10-Q,hardcoded
 "Marvell Technology, Inc.",Subsidiary,212,138,Singapore entity,marvell asia pte ltd,1058057,10-K/10-Q,hardcoded
-Ericsson,Parent,190,36,,telefonaktiebolaget l m ericsson publ; telefonaktiebolaget lm ericsson pubi; telefonaktiebolaget lm ericsson publ,101829,20-F,hardcoded
+Ericsson,Parent,190,36,,telefonaktiebolaget l m ericsson publ; telefonaktiebolaget lm ericsson pubi; telefonaktiebolaget lm ericsson publ,717826,10-K/10-Q,hardcoded
 "Analog Devices, Inc.",Parent,181,59,Ireland holding entity,analog devices inc; analog devices international unlimited company; maxim integrated products inc,6951,10-K/10-Q,hardcoded
 Intuit Inc.,Parent,176,78,,intuit inc,896878,10-K/10-Q,hardcoded
 Microchip Technology Incorporated,Parent,173,36,Name variant,microchip technology caldicot limited; microchip technology inc; microchip technology incorporated,827054,10-K/10-Q,hardcoded
@@ -54,7 +49,7 @@ Honeywell International Inc.,Parent,143,33,,honeywell international inc,773840,1
 "Salesforce, Inc.",Duplicate,134,349,Renamed from salesforce.com to Salesforce Aug 2022,salesforcecom inc,1108524,10-K/10-Q,hardcoded
 salesforce inc,,132,3,,salesforce inc,1108524,10-K/10-Q,edgar-exact
 JPMorgan Chase & Co.,Subsidiary,123,7,Primary banking entity,jpmorgan chase bank na,19617,10-K/10-Q,hardcoded
-atomera incorporated,,121,873,,atomera incorporated,1420520,10-K/10-Q,edgar-partial
+atomera incorporated,,121,873,,atomera incorporated,1420520,10-K/10-Q,hardcoded
 "Entegris, Inc.",Parent,115,9,,entegris inc,1101302,10-K/10-Q,hardcoded
 Snap Inc.,Parent,115,290,,snap inc,1564408,10-K/10-Q,hardcoded
 Broadcom Inc.,Predecessor,115,17,Avago acquired Broadcom 2016; renamed itself Broadcom Inc.,avago technologies international sales pte limited; avago technologies international sales ptelimited,1730168,10-K/10-Q,hardcoded
@@ -84,10 +79,11 @@ Snowflake Inc.,Parent,55,62,,snowflake inc,1640147,10-K/10-Q,hardcoded
 "NetApp, Inc.",Parent,52,38,,netapp inc,1002047,10-K/10-Q,hardcoded
 "Monolithic Power Systems, Inc.",Parent,51,3,,monolithic power systems co ltd; monolithic power systems inc; monolithic power systemsinc,1280452,10-K/10-Q,hardcoded
 Corning Incorporated,Parent,48,25,,corning incorporated,24741,10-K/10-Q,hardcoded
-"Allegro MicroSystems, Inc.",Subsidiary,46,32,Operating entity,allegro microsystems llc,1816090,10-K/10-Q,hardcoded
+"Allegro MicroSystems, Inc.",Subsidiary,46,32,Operating entity,allegro microsystems llc,866291,10-K/10-Q,hardcoded
 "Cadence Design Systems, Inc.",Parent,46,20,,cadence design systems inc,813672,10-K/10-Q,hardcoded
 amkor technology inc,,44,68,,amkor technology inc,1047127,10-K/10-Q,edgar-exact
-"Kyndryl Holdings, Inc.",Parent,40,14,Spun off from IBM Nov 2021,kyndryl inc,1835079,10-K/10-Q,hardcoded
+cerebras systems inc,,41,228,,cerebras systems inc,2021728,10-K/10-Q,edgar-exact
+"Kyndryl Holdings, Inc.",Parent,40,14,Spun off from IBM Nov 2021,kyndryl inc,1867072,10-K/10-Q,hardcoded
 cognizant technology solutions us corporation,,39,4,,cognizant technology solutions us corporation,1058290,10-K/10-Q,edgar-partial
 Fair Isaac Corporation (FICO),Parent,38,14,,fair isaac corporation,814547,10-K/10-Q,hardcoded
 Palantir Technologies Inc.,Parent,38,5,,palantir technologies inc,1321655,10-K/10-Q,hardcoded
@@ -95,9 +91,9 @@ Palantir Technologies Inc.,Parent,38,5,,palantir technologies inc,1321655,10-K/1
 Silicon Laboratories Inc.,Parent,33,70,,silicon laboratories inc,1038074,10-K/10-Q,hardcoded
 gsi technology inc,,32,7,,gsi technology inc,1126741,10-K/10-Q,edgar-exact
 Navitas Semiconductor Limited,Parent,32,14,,navitas semiconductor limited,1801170,10-K/10-Q,hardcoded
-eBay Inc.,Parent,31,4,,ebay inc,1013239,10-K/10-Q,hardcoded
+eBay Inc.,Parent,31,4,,ebay inc,1065088,10-K/10-Q,hardcoded
 "Illumina, Inc.",Parent,31,40,,illumina inc,1110803,10-K/10-Q,hardcoded
-"Arista Networks, Inc.",Parent,29,1,,arista networks inc,1313925,10-K/10-Q,hardcoded
+"Arista Networks, Inc.",Parent,29,1,,arista networks inc,1596532,10-K/10-Q,hardcoded
 "Uber Technologies, Inc.",Subsidiary,28,53,Uber Advanced Technologies Group; sold to Aurora 2021,uatc llc,1543151,10-K/10-Q,edgar-exact
 "Montage Technology Co., Ltd.",Parent,28,16,,montage technology co ltd; montage technology inc; montage technology kunshan co ltd,2123346,10-K/10-Q,edgar-partial
 unitedhealth group incorporated,,27,2,,unitedhealth group incorporated,731766,10-K/10-Q,edgar-partial
@@ -113,7 +109,7 @@ super micro computer inc,,24,28,,super micro computer inc,1375365,10-K/10-Q,edga
 synaptics incorporated,,24,5,,synaptics incorporated,817720,10-K/10-Q,edgar-partial
 netflix inc,,23,0,,netflix inc,1065280,10-K/10-Q,edgar-exact
 arteris inc,,22,3,,arteris inc,1667011,10-K/10-Q,edgar-exact
-ideal power inc,,22,40,,ideal power inc,1507957,10-K/10-Q,edgar-exact
+ideal power inc,,22,40,,ideal power inc,1507957,10-K/10-Q,hardcoded
 fortinet inc,,21,0,,fortinet inc,1262039,10-K/10-Q,edgar-exact
 roku inc,,21,2,,roku inc,1428439,10-K/10-Q,edgar-exact
 veeco instruments inc,,21,1,,veeco instruments inc,103145,10-K/10-Q,edgar-exact
@@ -135,7 +131,6 @@ energy recovery inc,,14,6,,energy recovery inc,1421517,10-K/10-Q,edgar-exact
 everspin technologies inc,,14,0,,everspin technologies inc,1438423,10-K/10-Q,edgar-exact
 veritone inc,,14,4,,veritone inc,1615165,10-K/10-Q,edgar-exact
 hinge health inc,,13,4,,hinge health inc,1673743,10-K/10-Q,edgar-exact
-tower semiconductor ltd,,13,8,,tower semiconductor ltd,928876,10-K/10-Q,edgar-exact
 zhejiang sanhua intelligent controls co ltd,,13,1,,zhejiang sanhua intelligent controls co ltd,2076398,10-K/10-Q,edgar-partial
 axcelis technologies inc,,12,4,,axcelis technologies inc,1113232,10-K/10-Q,edgar-exact
 flex ltd,,12,1,,flex ltd,866374,10-K/10-Q,edgar-exact
@@ -208,15 +203,16 @@ gen digital inc,,4,0,,gen digital inc,849399,10-K/10-Q,edgar-exact
 gentherm incorporated,,4,3,,gentherm incorporated,903129,10-K/10-Q,edgar-partial
 hubspot inc,,4,0,,hubspot inc,1404655,10-K/10-Q,edgar-exact
 humana inc,,4,0,,humana inc,49071,10-K/10-Q,edgar-exact
-hyliion holdings corp,,4,3,,hyliion holdings corp,1759631,10-K/10-Q,edgar-exact
+hyliion holdings corp,,4,3,,hyliion holdings corp,1759631,10-K/10-Q,hardcoded
 materion corporation,,4,0,,materion corporation,1104657,10-K/10-Q,edgar-partial
 mongodb inc,,4,0,,mongodb inc,1441816,10-K/10-Q,edgar-exact
 open text corporation,,4,0,,open text corporation,1002638,10-K/10-Q,edgar-partial
 rail vision ltd,,4,0,,rail vision ltd,1743905,10-K/10-Q,edgar-exact
 ringcentral inc,,4,0,,ringcentral inc,1384905,10-K/10-Q,edgar-exact
+toyo engineering corporation,,4,0,,toyo engineering corporation,2128619,10-K/10-Q,edgar-partial
 toyota tsusho corporation,,4,1,,toyota tsusho corporation,2018139,10-K/10-Q,edgar-partial
 yext inc,,4,0,,yext inc,1614178,10-K/10-Q,edgar-exact
-aurora innovation inc,,3,0,,aurora innovation inc,1828108,10-K/10-Q,edgar-exact
+aurora innovation inc,,3,0,,aurora innovation inc,1828108,10-K/10-Q,hardcoded
 chime financial inc,,3,0,,chime financial inc,1795586,10-K/10-Q,edgar-exact
 contemporary amperex technology hong kong limited,,3,0,,contemporary amperex technology hong kong limited,2070829,10-K/10-Q,edgar-partial
 cs disco inc,,3,7,,cs disco inc,1625641,10-K/10-Q,edgar-exact
@@ -228,7 +224,7 @@ freshworks inc,,3,0,,freshworks inc,1544522,10-K/10-Q,edgar-exact
 gbt technologies inc,,3,2,,gbt technologies inc,1471781,10-K/10-Q,edgar-exact
 hubbell incorporated,,3,1,,hubbell incorporated,48898,10-K/10-Q,edgar-partial
 neuropace inc,,3,0,,neuropace inc,1528287,10-K/10-Q,edgar-exact
-quantum computing inc,,3,6,,quantum computing inc,1758009,10-K/10-Q,edgar-exact
+quantum computing inc,,3,6,,quantum computing inc,1758009,10-K/10-Q,hardcoded
 roblox corporation,,3,0,,roblox corporation,1315098,10-K/10-Q,edgar-partial
 shutterstock inc,,3,2,,shutterstock inc,1549346,10-K/10-Q,edgar-exact
 sitime corporation,,3,6,,sitime corporation,1451809,10-K/10-Q,edgar-partial
@@ -256,7 +252,7 @@ fuelcell energy inc,,2,0,,fuelcell energy inc,886128,10-K/10-Q,edgar-exact
 heartflow inc,,2,0,,heartflow inc,1464521,10-K/10-Q,edgar-exact
 hewlett packard enterprise develeopment lp,,2,0,,hewlett packard enterprise develeopment lp,1645590,10-K/10-Q,edgar-partial
 lendingclub corporation,,2,1,,lendingclub corporation,1409970,10-K/10-Q,edgar-partial
-lightwave logic inc,,2,1,,lightwave logic inc,1325964,10-K/10-Q,edgar-exact
+lightwave logic inc,,2,1,,lightwave logic inc,1325964,10-K/10-Q,hardcoded
 lyft inc,,2,12,,lyft inc,1759509,10-K/10-Q,edgar-exact
 navan inc,,2,0,,navan inc,1639723,10-K/10-Q,edgar-exact
 parsons corporation,,2,0,,parsons corporation,275880,10-K/10-Q,edgar-partial

@@ -6,6 +6,7 @@ Kioxia Corporation,Parent,1584,829,Spun off from Toshiba; formerly Toshiba Memor
 Mitsubishi Electric Corporation,Independent,1496,220,Separate from other Mitsubishi group cos,mitsubishi electric corporation; mitsubishi electric research laboratories inc,,,known non-filer
 "Huawei Technologies Co., Ltd.",Parent,1449,150,Digital Power division,huawei cloud computing technologies co ltd; huawei digital power technologies co ltd; huawei technologies co ltd; huawei technologies coltd,,,known non-filer
 Nanya Technology Corporation,Parent,1259,248,,nanya technology corporation,,,known non-filer
+United Microelectronics Corporation,Parent,1233,767,,united microelectronics corp,,,known non-filer
 "Fuji Electric Co., Ltd.",Parent,1176,202,,fuji electric co ltd,,,not found
 Toshiba Corporation,Parent,1144,223,Materials division,kabushiki kaisha toshiba; toshiba carrier corporation; toshiba digital solutions corporation; toshiba electonic devices storage corporation; toshiba electronic devices storage corporation; toshiba electrowave products co ltd; toshiba eletronic devices storage corporation; toshiba energy systems solutions corporation; toshiba global commerce solutions holdings corporation; toshiba infrastructure systems solutions corporation; toshiba international corporation; toshiba materials co ltd,,,known non-filer
 "ROHM Co., Ltd.",Parent,1062,247,,rohm co ltd,,,not found
@@ -14,10 +15,12 @@ Tokyo Electron Limited,Parent,1006,336,,tokyo electron limited,,,known non-filer
 "Semiconductor Energy Laboratory Co., Ltd.",Parent,977,959,Private; Japan,semiconductor energy laboratory co ltd,,,not found
 "Baidu, Inc.",Subsidiary,886,319,Name variant – core entity,baidu online network technology beijing co ltd; baidu usa llc; baiducom times technology beijing co ltd; beijing baidu netcom science and technology co ltd; beijing baidu netcom science technology co ltd,,,known non-filer
 ASM International N.V.,Subsidiary,845,2089,US IP holding entity,asm ip holding bv,,,not found
+"ASE Technology Holding Co., Ltd.",Acquired,810,189,Primary operating entity,advanced semiconductor engineering inc; advanced semiconductor engineering korea inc; siliconware precision industries co ltd,,,known non-filer
 "Yangtze Memory Technologies Co., Ltd.",Parent,792,506,,yangtze memory technologies co ltd; yangtze memory technologies holding co ltd; yangtze memory technology co ltd,,,known non-filer
 NEC Corporation,Parent,764,100,US research lab,nec corporation; nec laboratories america inc; nec laboratories europe gmbh; nec platforms ltd,,,not found
 "Changxin Memory Technologies, Inc.",Parent,740,38,Chinese DRAM maker (CXMT),changxin memory technologies inc,,,known non-filer
 Renesas Electronics Corporation,Parent,728,165,,renesas electronics corporation,,,known non-filer
+Sony Group Corporation,Parent,650,158,Image sensor division,sony corporation; sony group corporation; sony interactive entertainment inc; sony semiconductor solutions corporation,,,known non-filer
 Robert Bosch GmbH,Parent,605,40,Private,robert bosch gmbh,,,known non-filer
 Semiconductor Manufacturing International Corporation,Subsidiary,553,69,Beijing fab,semiconductor manufacturing international beijing corporation; semiconductor manufacturing international shanghai corporation; smic new technology research and development shanghai corporation,,,known non-filer
 DENSO Corporation,Parent,541,87,Toyota group affiliate,denso corporation,,,known non-filer
@@ -26,10 +29,12 @@ Tencent Holdings Limited,Subsidiary,518,73,Core tech entity,tencent america llc;
 "Hitachi, Ltd.",Parent,458,40,Auto JV w/ Honda; est. Jan 2021,hitachi astemo ltd; hitachi automotive systems ltd; hitachi energy ltd; hitachi hightech corporation; hitachi ltd; hitachi power semiconductor device ltd,,,known non-filer
 MediaTek Inc.,Parent,390,77,Singapore entity,mediatek inc; mediatek singapore pte ltd,,,known non-filer
 "Delta Electronics, Inc.",Parent,319,75,Shanghai manufacturing,delta electronics inc; delta electronics shanghai co ltd; delta electronics shanghai coltd,,,not found
+Canon Inc.,Parent,313,25,,canon kabushiki kaisha,,,known non-filer
 ETRI (Electronics and Telecommunications Research Institute),Research institute,308,36,South Korean gov't R&D,electronics and telecomminications research institute; electronics and telecommunications research institute; electronics and telecommunications research lnstitute; electronics and telecommuunications research institute,,,not found
 Winbond Electronics Corporation,Parent,306,88,,winbond electronics corp,,,not found
 Monolithic 3D Inc.,Parent,289,321,,monolithic 3d inc,,,not found
 hamilton sundstrand corporation,,285,93,,hamilton sundstrand corporation,,,not found
+SAP SE,Parent,277,63,,sap se,,,known non-filer
 Panasonic Holdings Corporation,Subsidiary,273,72,Japan IP entity,panasonic intellectual property corporation of america; panasonic intellectual property management co ltd,,,not found
 Lodestar Licensing Group LLC,Parent,268,6,IP licensing entity,lodestar licensing group llc,,,not found
 Alibaba Group Holding Limited,Parent,265,96,China entity,alibaba china co ltd; alibaba group holding limited,,,not found
@@ -232,7 +237,6 @@ shinetsu handotai co ltd,,42,7,,shinetsu handotai co ltd,,,not found
 zf friedrichshafen ag,,42,0,,zf friedrichshafen ag,,,not found
 ETH Zurich,University,42,15,,eth zurich; eth zurich eidgenossische technische hochschule zurich; eth zürich; eth zürich eidgenössische technische hochschule zürich,,,not found
 absolics inc,,41,0,,absolics inc,,,not found
-cerebras systems inc,,41,228,,cerebras systems inc,,,not found
 korea electronics technology institute,,41,4,,korea electronics technology institute,,,not found
 silanna uv technologies pte ltd,,41,51,,silanna uv technologies pte ltd,,,not found
 "Etron Technology, Inc.",Parent,41,9,,etron technology america inc; etron technology inc,,,not found
@@ -792,6 +796,7 @@ the 13th research institute of china electronics technology group corporation,,1
 the regents of the university of colorado a body corporate,,13,5,,the regents of the university of colorado a body corporate,,,not found
 the trustees of the university of pennsylvania,,13,0,,the trustees of the university of pennsylvania,,,not found
 tokuyama corporation,,13,0,,tokuyama corporation,,,not found
+tower semiconductor ltd,,13,8,,tower semiconductor ltd,,,known non-filer
 vianai systems inc,,13,0,,vianai systems inc,,,not found
 vitesco technologies gmbh,,13,1,,vitesco technologies gmbh,,,not found
 xergy inc,,13,0,,xergy inc,,,not found
@@ -2281,7 +2286,6 @@ tokai carbon korea co ltd,,4,0,,tokai carbon korea co ltd,,,not found
 top rank technology limited,,4,0,,top rank technology limited,,,not found
 toromont industries ltd,,4,0,,toromont industries ltd,,,not found
 towerjazz panasonic semiconductor co ltd,,4,28,,towerjazz panasonic semiconductor co ltd,,,not found
-toyo engineering corporation,,4,0,,toyo engineering corporation,,,not found
 transaera inc,,4,1,,transaera inc,,,not found
 trinno technology co ltd,,4,0,,trinno technology co ltd,,,not found
 trumpf photonics inc,,4,0,,trumpf photonics inc,,,not found
