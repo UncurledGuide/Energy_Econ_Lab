@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 clean_companies.py)",
+      "Bash(python3 -c ' *)",
+      "Bash(pip install *)",
+      "Bash(python3 -m pip install requests pandas -q)",
+      "Bash(python3)",
+      "Bash(python3 /Users/humza/energy_economics_lab_work/Energy_Econ_Lab/.claude/worktrees/angry-wing-126fa9/write_notebook.py)"
+    ]
+  }
+}
